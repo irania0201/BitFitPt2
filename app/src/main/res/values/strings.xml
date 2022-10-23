@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">BitFit-Pt1</string>
+    <string name="app_name">BitFit-Pt2</string>
     <string name="enter_entry_title">How are you feeling?</string>
-    <string name="write_entry_entry">Why?</string>
+    <string name="write_entry">Why?</string>
     <string name="add">Add</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
